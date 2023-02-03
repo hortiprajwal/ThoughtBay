@@ -51,3 +51,90 @@ and other options such as log in/out, and profile.<br>
 • All the posts are stored in a database. (Firebase).
 
 <b>6. Screens</b>
+
+<br>
+<table style="border:1px solid;">
+  <tr >
+    <th style="text-align: center; border:1px solid;">Login Page</th>
+    <th style="text-align: center; border:1px solid;">SignUp Page</th>
+  </tr>
+  <tr >
+    <td style="text-align: center; border:1px solid;padding:1em;">
+        <img width="80%" src="Images/login_page.png">
+    </td>
+    <td style="text-align: center; border:1px solid;padding:1em;">
+         <img width="80%" src="Images/signUp_page.png">
+    </td>
+  </tr>
+  
+</table>
+<br>
+<table style="border:1px solid;">
+  <tr >
+    <th style="text-align: center; border:1px solid;">Profile Photo Upload</th>
+    <th style="text-align: center; border:1px solid;">Profile Photo Upload</th>
+  </tr>
+  <tr >
+    <td style="text-align: center; border:1px solid;padding:1em;">
+        <img width="80%" src="Images/profile_photo_upload.png">
+    </td>
+    <td style="text-align: center; border:1px solid;padding:1em;">
+         <img width="80%" src="Images/profile_photo_upload2.png">
+    </td>
+  </tr>
+  
+</table>
+<br>
+<table style="border:1px solid;">
+  <tr >
+    <th style="text-align: center; border:1px solid;">Home Page</th>
+    <th style="text-align: center; border:1px solid;">Explore Page</th>
+  </tr>
+  <tr >
+    <td style="text-align: center; border:1px solid;padding:1em;">
+        <img width="80%" src="Images/home_page.png">
+    </td>
+    <td style="text-align: center; border:1px solid;padding:1em;">
+         <img width="80%" src="Images/explore_page.png">
+    </td>
+  </tr>
+  
+</table>
+<br>
+<table style="border:1px solid;">
+  <tr >
+    <th style="text-align: center; border:1px solid;">Side Menu Page</th>
+    <th style="text-align: center; border:1px solid;">Post Upload Page</th>
+  </tr>
+  <tr >
+    <td style="text-align: center; border:1px solid;padding:1em;">
+        <img width="80%" src="Images/side_menu_page.png">
+    </td>
+    <td style="text-align: center; border:1px solid;padding:1em;">
+         <img width="80%" src="Images/post_page.png">
+    </td>
+  </tr>
+  
+</table>
+<br>
+<table style="border:1px solid;">
+  <tr >
+    <th style="text-align: center; border:1px solid;">Profile Page</th>
+    <th style="text-align: center; border:1px solid;">Profile Page</th>
+    <th style="text-align: center; border:1px solid;">Profile Page</th>
+  </tr>
+  <tr >
+    <td style="text-align: center; border:1px solid;padding:1em;">
+        <img width="80%" src="Images/profile_page_user.png">
+    </td>
+    <td style="text-align: center; border:1px solid;padding:1em;">
+         <img width="80%" src="Images/profile_page_likes.png">
+    </td>
+    <td style="text-align: center; border:1px solid;padding:1em;">
+         <img width="80%" src="Images/profile_page_other.png">
+    </td>
+  </tr>
+  
+</table>
+
+<hr>
